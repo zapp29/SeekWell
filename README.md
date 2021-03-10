@@ -6,5 +6,5 @@ The goal of this project is to create a file manager with following functionalit
 
 Version 0.1:
 - proof of concept for automated tagging:
--- choose best algorithm for the task
--- feature engineering the SQL files
+  - choose best algorithm for the task
+  - feature engineering the SQL files
